@@ -14,7 +14,7 @@ Welcome to **SnakeManiaGame**, a classic arcade-style game where players control
 ## Demo
 
 <div align="center">
-    <img src="https://github.com/asadali756/COURIER-SERVICES-MANAGEMENT/blob/master/courier%20projects.JPG" alt="Courier Management System" style="border: 2px solid #000;"/>
+    <img src="https://github.com/asadali756/SnakeMania/commit/930be8b3dd2cd0bb2ee0a4c322d75f039f56ea13" alt="Courier Management System" style="border: 2px solid #000;"/>
 </div>
 
 ## Technologies Used
