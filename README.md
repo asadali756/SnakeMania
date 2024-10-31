@@ -2,7 +2,7 @@
 
 Welcome to **SnakeManiaGame**, a classic arcade-style game where players control a growing snake, aiming to collect food while avoiding collisions with the walls and itself. This project showcases the fun of retro gaming with modern web technologies, providing an engaging experience for players of all ages.
 
-![SnakeManiaGame Screenshot](path/to/your/snake-game-image.png) *(Add a screenshot or demo image of your game here)*
+
 
 ## Features
 
@@ -13,7 +13,9 @@ Welcome to **SnakeManiaGame**, a classic arcade-style game where players control
 
 ## Demo
 
-[View Live Demo](https://your-demo-link.com) *(Add a link to your live demo if available)*
+<div align="center">
+    <img src="https://github.com/asadali756/COURIER-SERVICES-MANAGEMENT/blob/master/courier%20projects.JPG" alt="Courier Management System" style="border: 2px solid #000;"/>
+</div>
 
 ## Technologies Used
 
